@@ -16,7 +16,7 @@ const convertString = (str) => {
     
 
     const w1 = ls + array[0].slice(2) + lf + ay
-    const w2 = ls2 + array[1].slice(2) + lf2 + ay
+    const w2 = ls2 + array[1].slice(2) + lf2 + ay  + "!"
 
     newArray.push(w1, w2)    
     
